@@ -2,7 +2,6 @@
 
 Built with HTML, CSS and Vanilla Js
 
-- Link: [Williams Portfolio](https://williamssam.netlify.app/)
-- Twitter: [@williams_codes](https://twitter.com/williams_codes)
+- Link: [Liam Portfolio](https://williamssam.netlify.app/)
 
-![portfolio site screenshot](./screenshot.jpg)
+![portfolio site screenshot](./show.jpg)
